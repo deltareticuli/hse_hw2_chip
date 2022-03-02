@@ -4,8 +4,8 @@
 # FastQC
 Можно сделать вывод, что в каждом случае подрезание значительно улучшило характеристики.
 ## ENCFF278SGU
-### [Ссылка от отчет до подрезания](fastqc/ENCFF278SGU_fastqc.html)
-### [Ссылка от отчет после подрезания](fastqc/ENCFF278SGU_trimmed_fastqc.html)
+### [Ссылка на отчет до подрезания](fastqc/ENCFF278SGU_fastqc.html)
+### [Ссылка на отчет после подрезания](fastqc/ENCFF278SGU_trimmed_fastqc.html)
 Summary до подрезания:
 
 ![](img/summary_1.png)
@@ -14,8 +14,8 @@ Summary после подрезания:
 
 ![](img/summary_trimmed_1.png)
 ## ENCFF367OLH
-### [Ссылка от отчет до подрезания](fastqc/ENCFF367OLH_fastqc.html)
-### [Ссылка от отчет после подрезания](fastqc/ENCFF367OLH_trimmed_fastqc.html)
+### [Ссылка на отчет до подрезания](fastqc/ENCFF367OLH_fastqc.html)
+### [Ссылка на отчет после подрезания](fastqc/ENCFF367OLH_trimmed_fastqc.html)
 Summary до подрезания:
 
 ![](img/summary_2.png)
@@ -24,8 +24,8 @@ Summary после подрезания:
 
 ![](img/summary_trimmed_2.png)
 ## ENCFF969KKW
-### [Ссылка от отчет до подрезания](fastqc/ENCFF969KKW_fastqc.html)
-### [Ссылка от отчет после подрезания](fastqc/ENCFF969KKW_trimmed_fastqc.html)
+### [Ссылка на отчет до подрезания](fastqc/ENCFF969KKW_fastqc.html)
+### [Ссылка на отчет после подрезания](fastqc/ENCFF969KKW_trimmed_fastqc.html)
 Summary до подрезания:
 
 ![](img/summary_3.png)
